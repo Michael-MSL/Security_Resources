@@ -59,3 +59,5 @@ IDA: https://hex-rays.com/IDA-pro/
 x64dbg: https://x64dbg.com/
 
 Ghidra: https://github.com/NationalSecurityAgency/ghidra/releases
+
+dnSpy: https://github.com/dnSpyEx/dnSpy
