@@ -14,6 +14,8 @@ Shodan: https://www.shodan.io
 
 Shodan Eye: https://github.com/BullsEye0/shodan-eye
 
+RED HAWK: https://github.com/Tuhinshubhra/RED_HAWK
+
 --
 
 Vuln Mgmt: 
