@@ -55,3 +55,5 @@ Malware Detection & Analysis:
 VirusTotal: https://www.virustotal.com/gui/home/search
 
 IDA: https://hex-rays.com/IDA-pro/
+
+Ghidra: https://github.com/NationalSecurityAgency/ghidra/releases
