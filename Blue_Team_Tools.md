@@ -12,6 +12,11 @@ Image: DuckDuck Go
 
 Angry IP: https://angryip.org/download/#windows
 
+Image: DuckDuck Go
+
+![scan2](https://github.com/user-attachments/assets/93879ad9-ee75-423f-9501-012c9c6d661e)
+
+
 Vulnerability Management: 
 
 Threat Intelligence:
