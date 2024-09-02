@@ -1,6 +1,6 @@
 # Inspired by a few resources on security tools.
 
-Network Discovery & Mapping Tools:
+Information Gathering:
 
 NMAP: https://nmap.org/download
 
@@ -14,7 +14,7 @@ Shodan Eye: https://github.com/BullsEye0/shodan-eye
 
 --
 
-Vulnerability Management: 
+Vuln Mgmt: 
 
 OpenVAS:
 
@@ -44,13 +44,13 @@ HackerOne: https://www.hackerone.com/
 
 --
 
-Threat Intelligence:
+Threat Intel:
 
 Maltego: https://www.hackerone.com/
 
 --
 
-Malware Detection & Analysis:
+Malware D&A:
 
 VirusTotal: https://www.virustotal.com/gui/home/search
 
@@ -64,6 +64,6 @@ dnSpy: https://github.com/dnSpyEx/dnSpy
 
 --
 
-Digial Forensics:
+Forensics:
 
 
