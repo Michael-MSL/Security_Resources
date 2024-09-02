@@ -43,4 +43,6 @@ HackerOne: https://www.hackerone.com/
 
 Threat Intelligence:
 
+Maltego: https://www.hackerone.com/
+
 Malware Detection & Analysis:
