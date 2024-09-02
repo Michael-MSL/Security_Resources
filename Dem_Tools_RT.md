@@ -21,3 +21,33 @@ Persistent:
 PE:
 
 --
+
+DE:
+
+--
+
+Cred Access / :
+
+--
+
+Discover:
+
+--
+
+Lat Movement:
+
+--
+
+Collect:
+
+--
+
+C&C:
+
+--
+
+Exfiltration:
+
+--
+
+Impact:
