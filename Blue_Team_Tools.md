@@ -45,4 +45,8 @@ Threat Intelligence:
 
 Maltego: https://www.hackerone.com/
 
+--
+
 Malware Detection & Analysis:
+
+VirusTotal: https://www.virustotal.com/gui/home/search
