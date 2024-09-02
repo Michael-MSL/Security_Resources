@@ -7,3 +7,7 @@ Reconnaissance:
 Resource Development:
 
 --
+
+Initial Access:
+
+--
