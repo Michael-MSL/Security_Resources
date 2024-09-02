@@ -1,2 +1,6 @@
 # Pentesting_Resources
-This repo will contain my own suggestions when it comes too what I have used when pentesting when it comes to distro's, tools &amp; other assorted necessities. Feel free to add information as I do the same.
+This repo will contain information on distros, tools & kits I have used when it comes to real time security scenarios & even pentesting
+
+Note: This is for informational and educational purposes.
+
+Note 2: Do note this information is coming from the perspective of a white hat, feel free to add as you see fit. 
