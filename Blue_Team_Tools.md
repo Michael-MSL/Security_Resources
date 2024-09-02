@@ -27,13 +27,10 @@ OpenVAS:
 
 Installation(Kali): 
 apt-get update
--
 apt-get dist-upgrade
--
 apt-get install openvas
--
 openvas-setup
--
+
 Threat Intelligence:
 
 Malware Detection & Analysis:
