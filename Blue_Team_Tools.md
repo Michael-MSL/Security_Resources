@@ -37,6 +37,8 @@ Credentials:
 username:admin
 password:(Password in openvas-setup command output)
 
+HackerOne: https://www.hackerone.com/
+
 --
 
 Threat Intelligence:
