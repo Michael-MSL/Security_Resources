@@ -1,4 +1,4 @@
-# Inspired by A-POC Blue-Team Tools
+# Inspired by a few resources on security tools.
 
 Network Discovery & Mapping Tools:
 
