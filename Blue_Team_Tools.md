@@ -32,7 +32,12 @@ Usage:
 
 openvas-start
 
+Credentials:
 
+username:admin
+password:(Password in openvas-setup command output)
+
+--
 
 Threat Intelligence:
 
