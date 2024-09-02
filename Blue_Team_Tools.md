@@ -50,3 +50,5 @@ Maltego: https://www.hackerone.com/
 Malware Detection & Analysis:
 
 VirusTotal: https://www.virustotal.com/gui/home/search
+
+IDA: https://hex-rays.com/IDA-pro/
