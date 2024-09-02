@@ -1,5 +1,7 @@
 # Inspired by a few resources on security tools.
 
+Blue Team == This portion will contain tools I have used meant for blue teaming, aka defenders
+
 Information Gathering:
 
 NMAP: https://nmap.org/download
