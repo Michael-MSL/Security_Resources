@@ -48,7 +48,7 @@ Credentials:
 
 Threat Intel:
 
-- Maltego: https://www.hackerone.com/
+- Maltego: https://www.maltego.com/
 
 --
 
