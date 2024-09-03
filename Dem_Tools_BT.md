@@ -22,25 +22,25 @@ Vuln Mgmt:
 
 OpenVAS:
 
-Installation(Kali): 
+-Installation(Kali): 
 
-apt-get update
+-apt-get update
 
-apt-get dist-upgrade
+-apt-get dist-upgrade
 
-apt-get install openvas
+-apt-get install openvas
 
-openvas-setup
+-openvas-setup
 
 Usage:
 
-openvas-start
+-openvas-start
 
 Credentials:
 
-username:admin
+-username:admin
 
-password:(Password in openvas-setup command output)
+-password:(Password in openvas-setup command output)
 
 --
 
