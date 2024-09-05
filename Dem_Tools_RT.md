@@ -15,3 +15,5 @@ Information Gathering:
 - RED HAWK: https://github.com/Tuhinshubhra/RED_HAWK
 
 - CTFR: https://github.com/UnaPibaGeek/ctfr
+
+- SN1PR: https://github.com/1N3/Sn1per
