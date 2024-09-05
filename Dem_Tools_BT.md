@@ -14,6 +14,8 @@ Information Gathering:
 
 - RED HAWK: https://github.com/Tuhinshubhra/RED_HAWK
 
+- CTFR: https://github.com/UnaPibaGeek/ctfr
+
 --
 
 Vuln Mgmt: 
