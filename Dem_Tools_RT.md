@@ -2,7 +2,7 @@
 
 Red Team == This portion will contain tools I have used meant for Red Teaming, aka attackers.
 
-Information Gathering:
+Information Gathering & Recon:
 
 - NMAP: https://nmap.org/download
 
@@ -23,3 +23,8 @@ Information Gathering:
 - KnockMail: https://github.com/4w4k3/KnockMail
 
 - PhoneInfoga: https://github.com/sundowndev/PhoneInfoga
+
+--
+R&D:
+
+--
