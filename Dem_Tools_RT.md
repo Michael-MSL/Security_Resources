@@ -2,6 +2,10 @@
 
 Red Team == This portion will contain tools I have used meant for Red Teaming, aka attackers.
 
+Information Gathering:
+
+--
+
 Recon:
 
 --
