@@ -17,3 +17,5 @@ Information Gathering:
 - CTFR: https://github.com/UnaPibaGeek/ctfr
 
 - SN1PR: https://github.com/1N3/Sn1per
+
+- Infoga: https://www.infoga.io/
