@@ -18,6 +18,8 @@ Information Gathering:
 
 - SN1PR: https://github.com/1N3/Sn1per
 
+- Infoga: https://www.infoga.io/
+
 --
 
 Vuln Mgmt: 
