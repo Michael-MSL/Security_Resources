@@ -5,3 +5,5 @@ Red Team == This portion will contain tools I have used meant for Red Teaming, a
 Information Gathering:
 
 - NMAP: https://nmap.org/download
+
+- Angry IP: https://angryip.org/download/#windows
