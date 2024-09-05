@@ -13,3 +13,5 @@ Information Gathering:
 - Shodan Eye: https://github.com/BullsEye0/shodan-eye
 
 - RED HAWK: https://github.com/Tuhinshubhra/RED_HAWK
+
+- CTFR: https://github.com/UnaPibaGeek/ctfr
