@@ -12,6 +12,8 @@ Gathering & Recon:
 
 - RED HAWK: https://github.com/Tuhinshubhra/RED_HAWK
 
+- CTFR: https://github.com/UnaPibaGeek/ctfr
+
 --
 
 Resources:
