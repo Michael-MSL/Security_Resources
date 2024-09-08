@@ -1,4 +1,7 @@
 # Inspired by a few resources on security tools.
+
+Red team == This portion will contain tools I have used meant for red teaming, aka attackers.
+
 --
 
 Gathering & Recon:
