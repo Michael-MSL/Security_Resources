@@ -18,6 +18,8 @@ Gathering & Recon:
 
 - CTFR: https://github.com/UnaPibaGeek/ctfr
 
+- SN1PR: https://github.com/1N3/Sn1per
+
 --
 
 Resources:
