@@ -6,6 +6,8 @@ Gathering & Recon:
 
 - Angry IP: https://angryip.org/download/#windows
 
+- Shodan: https://www.shodan.io
+
 --
 
 Resources:
