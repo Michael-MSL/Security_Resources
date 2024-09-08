@@ -8,6 +8,8 @@ Gathering & Recon:
 
 - Shodan: https://www.shodan.io
 
+- Shodan Eye: https://github.com/BullsEye0/shodan-eye
+
 --
 
 Resources:
