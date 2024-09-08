@@ -4,6 +4,8 @@ Gathering & Recon:
 
 - NMAP: https://nmap.org/download
 
+- Angry IP: https://angryip.org/download/#windows
+
 --
 
 Resources:
