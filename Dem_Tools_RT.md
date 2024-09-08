@@ -2,6 +2,8 @@
 
 Gathering & Recon:
 
+- NMAP: https://nmap.org/download
+
 --
 
 Resources:
