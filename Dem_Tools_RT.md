@@ -28,6 +28,8 @@ Gathering & Recon:
 
 - Nuclei: https://github.com/projectdiscovery/nuclei
 
+- DNSRecon: https://github.com/darkoperator/dnsrecon
+
 --
 
 Resources:
