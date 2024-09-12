@@ -32,6 +32,8 @@ Gathering & Recon:
 
 - AWSBucketDump: https://github.com/jordanpotti/AWSBucketDump
 
+- MetaBigor: https://github.com/j3ssie/metabigor
+
 --
 
 Resources:
