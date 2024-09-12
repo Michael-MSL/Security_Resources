@@ -40,7 +40,9 @@ Resources:
 
 - Chimera: https://github.com/tokyoneon/Chimera
 
-- MSFVenom: This utility is built into Kali Linux. 
+- MSFVenom: This utility is built into Kali Linux.
+
+--
 
 Access:
 
