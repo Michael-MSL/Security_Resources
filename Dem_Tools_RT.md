@@ -30,6 +30,8 @@ Gathering & Recon:
 
 - DNSRecon: https://github.com/darkoperator/dnsrecon
 
+- AWSBucketDump: https://github.com/jordanpotti/AWSBucketDump
+
 --
 
 Resources:
