@@ -38,6 +38,8 @@ Gathering & Recon:
 
 Resources:
 
+- Chimera: https://github.com/tokyoneon/Chimera
+
 -- 
 
 Access:
