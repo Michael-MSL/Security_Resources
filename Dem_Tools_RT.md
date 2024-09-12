@@ -26,6 +26,8 @@ Gathering & Recon:
 
 - PhoneInfoga: https://github.com/sundowndev/PhoneInfoga
 
+- Nuclei: https://github.com/projectdiscovery/nuclei
+
 --
 
 Resources:
