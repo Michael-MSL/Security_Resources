@@ -48,6 +48,8 @@ Access:
 
 - BashBunny: https://hak5.org/products/bash-bunny
 
+- EvilGoPhish: https://github.com/fin3ss3g0d/evilgophish
+
 --
 
 Execute:
