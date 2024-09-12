@@ -52,6 +52,8 @@ Access:
 
 - The-Social-Engineering-Toolkit: https://github.com/IO1337/social-engineering-toolkit
 
+- Hydra: https://github.com/vanhauser-thc/thc-hydra
+
 --
 
 Execute:
