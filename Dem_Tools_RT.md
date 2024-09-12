@@ -54,6 +54,8 @@ Access:
 
 - Hydra: https://github.com/vanhauser-thc/thc-hydra
 
+- SquarePhish: https://github.com/secureworks/squarephish
+
 --
 
 Execute:
