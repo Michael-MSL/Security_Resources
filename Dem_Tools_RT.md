@@ -74,7 +74,7 @@ Credentials Accessibility:
 
 - MimiKatz: https://github.com/gentilkiwi/mimikatz
 
--
+- Hashcat: https://github.com/hashcat/hashcat
 
 -
 
