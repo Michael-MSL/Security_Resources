@@ -72,6 +72,12 @@ Execute:
 
 Credentials Accessibility:
 
+- MimiKatz: https://github.com/gentilkiwi/mimikatz
+
+-
+
+-
+
 --
 
 C&C:
