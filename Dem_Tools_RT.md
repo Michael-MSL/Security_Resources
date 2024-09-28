@@ -78,6 +78,8 @@ Credentials Accessibility:
 
 - John The Ripper: https://github.com/openwall/john
 
+- SCOM Decrypt: https://github.com/nccgroup/SCOMDecrypt
+
 --
 
 C&C:
