@@ -76,7 +76,7 @@ Credentials Accessibility:
 
 - Hashcat: https://github.com/hashcat/hashcat
 
--
+- John The Ripper: https://github.com/openwall/john
 
 --
 
