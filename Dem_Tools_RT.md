@@ -60,6 +60,10 @@ Access:
 
 Execute:
 
+- SQL Recon:
+
+- 
+
 --
 
 Credentials Accessibility:
