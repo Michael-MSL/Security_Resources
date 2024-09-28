@@ -60,9 +60,9 @@ Access:
 
 Execute:
 
-- SQL Recon:
+- SQL Recon: https://github.com/skahwah/SQLRecon
 
-- 
+- Powerzure: 
 
 --
 
