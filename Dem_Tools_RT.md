@@ -86,6 +86,8 @@ Credentials Accessibility:
 
 - OphCrack: https://gitlab.com/objectifsecurite/ophcrack
 
+- NCrack: 
+
 --
 
 C&C:
