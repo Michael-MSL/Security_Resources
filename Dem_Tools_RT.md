@@ -86,7 +86,7 @@ Credentials Accessibility:
 
 - OphCrack: https://gitlab.com/objectifsecurite/ophcrack
 
-- NCrack: 
+- NCrack: https://github.com/nmap/ncrack
 
 --
 
