@@ -82,6 +82,10 @@ Credentials Accessibility:
 
 - MailSniper: https://github.com/dafthack/MailSniper
 
+- Hydra:
+
+- 
+
 --
 
 C&C:
