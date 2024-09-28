@@ -62,7 +62,7 @@ Execute:
 
 - SQL Recon: https://github.com/skahwah/SQLRecon
 
-- Powerzure: 
+- Powerzure: https://github.com/hausec/PowerZure
 
 --
 
