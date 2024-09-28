@@ -80,6 +80,8 @@ Credentials Accessibility:
 
 - SCOM Decrypt: https://github.com/nccgroup/SCOMDecrypt
 
+- MailSniper: https://github.com/dafthack/MailSniper
+
 --
 
 C&C:
