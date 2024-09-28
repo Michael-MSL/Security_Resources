@@ -84,7 +84,7 @@ Credentials Accessibility:
 
 - Hydra: https://github.com/vanhauser-thc/thc-hydra
 
-- OphCrack: 
+- OphCrack: https://gitlab.com/objectifsecurite/ophcrack
 
 --
 
