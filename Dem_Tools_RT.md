@@ -66,6 +66,8 @@ Execute:
 
 - Sharup: https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/SharpUp.exe
 
+- Demiguise: https://github.com/nccgroup/demiguise
+
 --
 
 Credentials Accessibility:
