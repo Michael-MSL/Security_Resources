@@ -82,7 +82,7 @@ Credentials Accessibility:
 
 - MailSniper: https://github.com/dafthack/MailSniper
 
-- Hydra:
+- Hydra: https://github.com/vanhauser-thc/thc-hydra
 
 - 
 
