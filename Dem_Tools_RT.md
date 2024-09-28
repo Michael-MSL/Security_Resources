@@ -64,6 +64,8 @@ Execute:
 
 - Powerzure: https://github.com/hausec/PowerZure
 
+- Sharup: https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/SharpUp.exe
+
 --
 
 Credentials Accessibility:
