@@ -100,7 +100,9 @@ C&C:
 
 - LOTS:
 
-- Havoc: 
+- Havoc:
+
+- Covenant:
 
 --
 
