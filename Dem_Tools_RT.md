@@ -92,6 +92,8 @@ Credentials Accessibility:
 
 - SSH Auditor: https://github.com/ncsa/ssh-auditor
 
+- Probable Wordlists: 
+
 --
 
 C&C:
