@@ -92,7 +92,7 @@ Credentials Accessibility:
 
 - SSH Auditor: https://github.com/ncsa/ssh-auditor
 
-- Probable Wordlists: 
+- Probable Wordlists: https://github.com/berzerk0/Probable-Wordlists
 
 --
 
