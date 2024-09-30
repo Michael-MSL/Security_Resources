@@ -104,7 +104,7 @@ C&C:
 
 - Havoc: https://github.com/HavocFramework/Havoc
 
-- Covenant:
+- Covenant: https://github.com/cobbr/Covenant
 
 --
 
