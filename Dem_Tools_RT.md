@@ -88,7 +88,7 @@ Credentials Accessibility:
 
 - NCrack: https://github.com/nmap/ncrack
 
-- Python Wordlist Generator:
+- Python Wordlist Generator: https://github.com/agusmakmun/Python-Wordlist-Generator
 
 --
 
