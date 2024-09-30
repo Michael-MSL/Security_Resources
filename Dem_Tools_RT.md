@@ -100,6 +100,8 @@ C&C:
 
 - LOTS:
 
+- Havoc: 
+
 --
 
 More information & formatting coming soon 
