@@ -98,6 +98,8 @@ Credentials Accessibility:
 
 C&C:
 
+- LOTS:
+
 --
 
 More information & formatting coming soon 
