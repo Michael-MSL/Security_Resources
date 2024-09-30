@@ -102,7 +102,7 @@ C&C:
 
 - LOTS: https://lots-project.com/
 
-- Havoc:
+- Havoc: https://github.com/HavocFramework/Havoc
 
 - Covenant:
 
