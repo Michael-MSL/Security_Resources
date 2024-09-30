@@ -88,6 +88,8 @@ Credentials Accessibility:
 
 - NCrack: https://github.com/nmap/ncrack
 
+- Python Wordlist Generator:
+
 --
 
 C&C:
