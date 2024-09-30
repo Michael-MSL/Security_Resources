@@ -98,7 +98,7 @@ Credentials Accessibility:
 
 C&C:
 
-- LOTS:
+- LOTS: https://lots-project.com/
 
 - Havoc:
 
