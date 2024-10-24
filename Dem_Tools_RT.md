@@ -108,4 +108,3 @@ C&C:
 
 --
 
-More information & formatting coming soon 
